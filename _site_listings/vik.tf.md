@@ -1,4 +1,4 @@
 ---
-pageurl: si3t.ch
+pageurl: vik.tf
 size: 2.1
 ---
